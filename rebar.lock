@@ -1,0 +1,12 @@
+{"1.2.0",
+[{<<"proper">>,
+  {git,"https://github.com/proper-testing/proper.git",
+       {ref,"275c218e10b8ab579d4f3cbcb96b106042f58437"}},
+  0},
+ {<<"rebar3_proper">>,{pkg,<<"rebar3_proper">>,<<"0.12.1">>},0}]}.
+[
+{pkg_hash,[
+ {<<"rebar3_proper">>, <<"5DDB0FE2B118844A96F868660516F78A6DEA4C777FF19DE225CCC313310B9F1B">>}]},
+{pkg_hash_ext,[
+ {<<"rebar3_proper">>, <<"6691C4D1883543578240D157EAA9D49F3EBB3156892F7C320F070868962327B8">>}]}
+].

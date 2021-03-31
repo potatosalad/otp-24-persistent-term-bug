@@ -1,0 +1,4 @@
+
+{prop_persistent_term,prop_test,
+                      [[{set,{var,1},
+                             {call,persistent_term_shim,get_empty,[]}}]]}.
